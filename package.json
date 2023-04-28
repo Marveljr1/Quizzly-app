@@ -1,0 +1,14 @@
+{
+  "name": "express-js-node",
+  "version": "1.0.0",
+  "description": "quizzly app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Williams",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
